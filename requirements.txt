@@ -1,0 +1,5 @@
+selenium
+random_user_agent
+discord.py
+requests
+webdriver_manager
