@@ -55,8 +55,11 @@ That's all for the txt files. Now, for the other ones:
 	2) Exclusive or Inclusive filter: Type E for exclusive and I for inclusive
 	3) Method:
 		method 1: Messaged logged users. You'll need to run log_usernames.py
+		
 		first. The log files can be found at the folder target
+		
 		method 2: Message users through the member list in each server.
+		
 		You don't need logged usernames to run this.
 
 just run the python file simply after installing requirements from requirement.txt file
